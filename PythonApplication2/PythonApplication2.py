@@ -1,2 +1,2 @@
 print("start label")
-print("SeeDuino Label")
+print("SeeDuino and Aurtu label")
